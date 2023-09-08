@@ -1,2 +1,3 @@
 # Android-TemperatureConverter App
-![Screenshot_20230908_125811](https://github.com/Srini-27s/Android-TemperatureConverter/assets/85057164/e4cc00a4-f0ea-4bf6-9604-30c8074cd080)
+<img width="137" alt="image" src="https://github.com/Srini-27s/Android-TemperatureConverter/assets/85057164/362f0430-4e1a-4281-ace3-ee13b3f26572">
+
