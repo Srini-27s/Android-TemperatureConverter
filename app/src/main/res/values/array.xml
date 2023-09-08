@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="conversion_types">
+        <item>Celsius to Fahrenheit</item>
+        <item>Fahrenheit to Celsius</item>
+        <!-- Add more conversion options if needed -->
+    </string-array>
+</resources>
